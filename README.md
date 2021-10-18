@@ -43,9 +43,9 @@ Hola soy Matias Raul Ibarra  Desarrollador Web Full Stack
         <img height="64px" src="https://cdn4.iconfinder.com/data/icons/vector-brand-logos/40/Bootstrap-256.png">
       </td>
       <td width="25%" align="center">
-        <span><strong>𝗘𝘀𝗹𝗶𝗻𝘁</strong>
+        <span><strong>Node</strong>
         </span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/eslint.svg">
+        <img height="64px" src="https://cdn4.iconfinder.com/data/icons/logos-3/456/nodejs-new-pantone-black-256.png">
       </td>
       <td width="25%" align="center">
         <span>𝗚𝗶𝘁</span><br><br><br>
@@ -105,7 +105,7 @@ Hola soy Matias Raul Ibarra  Desarrollador Web Full Stack
 
 <div align = "center">
 
-![MatiasRaulIbarra Github Status](https://github-readme-stats.vercel.app/api?username=parth-27&show_icons=true&title_color=3793c4&icon_color=ffbb00&text_color=ffffff&bg_color=000000)
+![MatiasRaulIbarra Github Status](https://github-readme-stats.vercel.app/api?username=MatiasRaulIbarra&show_icons=true&title_color=3793c4&icon_color=ffbb00&text_color=ffffff&bg_color=000000)
 
 <hr>
 
