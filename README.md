@@ -1,4 +1,4 @@
-## Hola <img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="30px">, SOY 'm [Parth!](https://github.com/MatiasRaulIbarra) !!
+## Hola <img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="30px">, SOY  [Matias Raul Ibarra](https://github.com/MatiasRaulIbarra) !!
 
 </h2>
 
@@ -105,7 +105,7 @@ Hola soy Matias Raul Ibarra  Desarrollador Web Full Stack
 
 <div align = "center">
 
-![Parth's Github Status](https://github-readme-stats.vercel.app/api?username=parth-27&show_icons=true&title_color=3793c4&icon_color=ffbb00&text_color=ffffff&bg_color=000000)
+![MatiasRaulIbarra Github Status](https://github-readme-stats.vercel.app/api?username=parth-27&show_icons=true&title_color=3793c4&icon_color=ffbb00&text_color=ffffff&bg_color=000000)
 
 <hr>
 
