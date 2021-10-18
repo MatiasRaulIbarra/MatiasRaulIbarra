@@ -15,7 +15,7 @@ La programación es una forma de crear, imaginar y realizar aquello que soñamos
 
 <hr/>
 
-# Technologies && Skills
+# Technologies &&  Soft Skills
 
 <table>
   <tbody>
