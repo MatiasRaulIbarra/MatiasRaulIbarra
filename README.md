@@ -1,5 +1,5 @@
-## Hola <img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="30px">, SOY  [Matías Raúl Ibarra Desarrollador Web Full Stack](https://github.com/MatiasRaulIbarra) !!
-                                   
+## Hola <img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="30px">, SOY  [Matías Raúl Ibarra Desarrolador Web Full Stack Jr](https://github.com/MatiasRaulIbarra) !!
+
 </h2>
 
 <hr/>
@@ -15,7 +15,7 @@ La programación es una forma de crear, imaginar y realizar aquello que soñamos
 
 <hr/>
 
-Tegnologias que manejo
+# Technologies && Skills
 
 <table>
   <tbody>
@@ -54,10 +54,9 @@ Tegnologias que manejo
         <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
       </td>
       <td width="25%" align="center">
-        <span>𝗚𝗶𝘁hub</span><br><br><br>
+        <span>Github</span><br><br><br>
         <img height="64px" src="https://cdn3.iconfinder.com/data/icons/social-media-2253/25/Group-256.png">
       </td>
-      
     </tr>
     <tr valign="top">
       <td width="25%" align="center">
@@ -65,19 +64,18 @@ Tegnologias que manejo
         <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
       </td>
       <td width="25%" align="center">
-        <span><strong>Java</strong></span><br><br><br>
-        <img height="64px" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg">
-      </td>
-      <td width="25%" align="center">
         <span><strong>MySql</strong></span><br><br><br>
         <img height="64px" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg">
       </td>
       <td width="25%" align="center">
-        <span><strong>C</strong></span><br><br><br>
-        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/The_C_Programming_Language_logo.svg/564px-The_C_Programming_Language_logo.svg.png">
+        <span><strong>Scrum</strong></span><br><br><br>
+        <img height="64px" src="https://cdn3.iconfinder.com/data/icons/basic-ui-elements-2-4-filled-outline-45/512/Basic_UI_Elements_2.4_-_Filled_Outline_-_45-43-256.png">
+      </td>
+      <td width="25%" align="center">
+        <span><strong>Kanban</strong></span><br><br><br>
+        <img height="64px" src="https://cdn0.iconfinder.com/data/icons/agile-basic-3-filled-outline/468/Layer17-256.png">
       </td>
     </tr>
-    
   </tbody>
 </table>
 <hr>
@@ -120,4 +118,7 @@ Tegnologias que manejo
 
 ---
 ⭐️ De [Matías ](https://github.com/MatiasRaulIbarra) 
+
+
+
 
