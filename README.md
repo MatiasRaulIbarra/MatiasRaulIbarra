@@ -57,15 +57,12 @@ Tegnologias que manejo
         <span>𝗚𝗶𝘁hub</span><br><br><br>
         <img height="64px" src="https://cdn3.iconfinder.com/data/icons/social-media-2253/25/Group-256.png">
       </td>
-      <td width="25%" align="center">
-        <span>𝗩𝗦 𝗖𝗼𝗱𝗲</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
-      </td>
+      
     </tr>
     <tr valign="top">
       <td width="25%" align="center">
-        <span><strong>Django</strong></span><br><br><br>
-        <img height="64px" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg">
+        <span><strong>Vs code</strong></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
       </td>
       <td width="25%" align="center">
         <span><strong>Java</strong></span><br><br><br>
