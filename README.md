@@ -6,7 +6,8 @@
 
 ## Sobre mi 
 
-Soy estudiante de 2°año de la Tecnicatura superior en desarrollo web y aplicaciones.
+Soy estudiante del  2°año de la Tecnicatura superior en desarrollo web y aplicaciones.
+Trabajo actualmente como desarrollador Backend .NET y es en lo que me estoy especializando  .NET me fascinó y sobre todo el backend.
 
 La programación es una forma de crear, imaginar y realizar aquello que soñamos, por eso me identifico con la frase, "si lo puedes imaginar lo puedes programar".
 
