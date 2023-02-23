@@ -6,7 +6,7 @@
 
 ## Sobre mi 
 
-Soy una persona con intención de desarrollar una filosofía de aprendizaje para toda mi vida. Me encanta tanto el Frontend como el Backend ,por eso me aboque al desarrollo full stack .
+Soy estudiante de 2°año de la Tecnicatura superior en desarrollo web y aplicaciones.
 
 La programación es una forma de crear, imaginar y realizar aquello que soñamos, por eso me identifico con la frase, "si lo puedes imaginar lo puedes programar".
 
