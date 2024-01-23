@@ -1,4 +1,4 @@
-## Hola <img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="30px">, SOY  [Matías Raúl Ibarra Desarrollador  Backend .NET](https://github.com/MatiasRaulIbarra) !!
+## Hola <img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="30px">, SOY  [Matías Raúl Ibarra Desarrollador .NET](https://github.com/MatiasRaulIbarra) !!
 
 </h2>
 
@@ -6,13 +6,11 @@
 
 ## Sobre mi 
 
-Soy estudiante del  2°año de la Tecnicatura superior en desarrollo web y aplicaciones.
-Trabajo actualmente como desarrollador Backend .NET y es en lo que me estoy especializando ,quiero convertirme en un gran profesional .
-
-La programación es una forma de crear, imaginar y realizar aquello que soñamos, por eso me identifico con la frase, "si lo puedes imaginar lo puedes programar".
-
-
-
+Estudiante del 2° Año de la Tecnicatura Superior en Desarrollo Web y Aplicaciones
+Digitales con una pasión por aprender y una fuerte capacidad autodidacta. Proactivo y
+entusiasta, comprometido con la mejora continua y el desarrollo personal. Con
+experiencia en tecnologías web y backend, así como en el manejo de metodologías
+ágiles.
 
 <hr/>
 
@@ -32,11 +30,6 @@ La programación es una forma de crear, imaginar y realizar aquello que soñamos
       <td width="25%" align="center">
         <span>𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
-      </td>
-      <td width="25%" align="center">
-        <span><strong>React</strong>
-        </span><br><br><br>
-        <img height="64px" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png">
       </td>
     </tr>
     <tr valign="top">
@@ -71,10 +64,6 @@ La programación es una forma de crear, imaginar y realizar aquello que soñamos
       <td width="25%" align="center">
         <span><strong>Scrum</strong></span><br><br><br>
         <img height="64px" src="https://cdn3.iconfinder.com/data/icons/basic-ui-elements-2-4-filled-outline-45/512/Basic_UI_Elements_2.4_-_Filled_Outline_-_45-43-256.png">
-      </td>
-      <td width="25%" align="center">
-        <span><strong>Kanban</strong></span><br><br><br>
-        <img height="64px" src="https://cdn0.iconfinder.com/data/icons/agile-basic-3-filled-outline/468/Layer17-256.png">
       </td>
     </tr>
   </tbody>
