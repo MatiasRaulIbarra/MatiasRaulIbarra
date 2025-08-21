@@ -19,17 +19,17 @@ I am currently undertaking a strategic, full-time professional development plan 
 My hands-on experience is centered around these technologies:
 
 <p align="left">
-  <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="C#" width="55" height="55" />
-  <img src="https://techstack-generator.vercel.app/dotnet-icon.svg" alt=".NET" width="55" height="55" />
-  <img src="https://techstack-generator.vercel.app/sql-server-icon.svg" alt="SQL Server" width="55" height="55" />
-  <img src="https://techstack-generator.vercel.app/angular-icon.svg" alt="Angular" width="55" height="55" />
-  <img src="https://techstack-generator.vercel.app/git-icon.svg" alt="Git" width="55" height="55" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dot-net&logoColor=white" alt=".NET" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
-* [cite_start]**Backend:** C#, ASP.NET Core, Entity Framework Core, ADO.NET [cite: 16, 17, 18, 19, 40]
-* [cite_start]**Databases:** SQL Server, MySQL, PL/SQL [cite: 43, 45, 38]
-* [cite_start]**Frontend:** Angular & JavaScript basics [cite: 27, 71]
-* [cite_start]**Methodologies:** Agile & Scrum [cite: 4, 75]
+* **Backend:** C#, ASP.NET Core, Entity Framework Core, ADO.NET
+* **Databases:** SQL Server, MySQL, PL/SQL
+* **Frontend:** Angular & JavaScript basics
+* **Methodologies:** Agile & Scrum
 
 ---
 
