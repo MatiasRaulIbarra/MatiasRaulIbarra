@@ -1,114 +1,53 @@
-## Hola <img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="30px">, SOY  [Matías Raúl Ibarra Desarrollador .NET](https://github.com/MatiasRaulIbarra) !!
+# Hi there, I'm Matías Ibarra 👋
 
-</h2>
-
-<hr/>
-
-## Sobre mi 
-
-Estudiante del 2° Año de la Tecnicatura Superior en Desarrollo Web y Aplicaciones
-Digitales con una pasión por aprender y una fuerte capacidad autodidacta. Proactivo y
-entusiasta, comprometido con la mejora continua y el desarrollo personal. Con
-experiencia en tecnologías web y backend, así como en el manejo de metodologías
-ágiles.
-
-<hr/>
-
-# Technologies &&  Soft Skills
-
-<table>
-  <tbody>
-    <tr valign="top">
-      <td width="25%" align="center">
-        <span>𝗛𝗧𝗠𝗟𝟱</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>𝗖𝗦𝗦𝟯</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
-      </td>
-    </tr>
-    <tr valign="top">
-      <td width="25%" align="center">
-        <span><strong>Bootstrap</strong>
-        </span><br><br><br>
-        <img height="64px" src="https://cdn4.iconfinder.com/data/icons/vector-brand-logos/40/Bootstrap-256.png">
-      </td>
-      <td width="25%" align="center">
-        <span><strong>Node</strong>
-        </span><br><br><br>
-        <img height="64px" src="https://cdn4.iconfinder.com/data/icons/logos-3/456/nodejs-new-pantone-black-256.png">
-      </td>
-      <td width="25%" align="center">
-        <span>𝗚𝗶𝘁</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>Github</span><br><br><br>
-        <img height="64px" src="https://cdn3.iconfinder.com/data/icons/social-media-2253/25/Group-256.png">
-      </td>
-    </tr>
-    <tr valign="top">
-      <td width="25%" align="center">
-        <span><strong>Vs code</strong></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
-      </td>
-      <td width="25%" align="center">
-        <span><strong>MySql</strong></span><br><br><br>
-        <img height="64px" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg">
-      </td>
-      <td width="25%" align="center">
-        <span><strong>Scrum</strong></span><br><br><br>
-        <img height="64px" src="https://cdn3.iconfinder.com/data/icons/basic-ui-elements-2-4-filled-outline-45/512/Basic_UI_Elements_2.4_-_Filled_Outline_-_45-43-256.png">
-      </td>
-    </tr>
-  </tbody>
-</table>
-<hr>
-
-<h1 align="center">
-✨ Donde podes encontrarme ✨
-  
-  <!-- https://img.shields.io/badge/Linkedin-Parth Patel-blue&?style=social&logo=linkedin -->
-
-  <!-- https://img.shields.io/badge/Github-Parth%20Patel-black&?style=social&logo=Github -->
-
-  
-
-<p align="center">
-  <br/>
-  <a href="https://www.linkedin.com/in/matías-raul-ibarra/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
-  </a>
-  
-  <a href="https://github.com/MatiasRaulIbarra">
-    <img src="https://img.shields.io/badge/Github-%230A0A0A.svg?&style=flat-square&logo=Github&logoColor=white">  
-  </a>
-
-
-  <br/>
- 
-</p>
-</h1>
-
-<div align = "center">
-
-![MatiasRaulIbarra Github Status](https://github-readme-stats.vercel.app/api?username=MatiasRaulIbarra&show_icons=true&title_color=3793c4&icon_color=ffbb00&text_color=ffffff&bg_color=000000)
-
-<hr>
-
-</div>
-
-<h3>Gracias por pasar !! 😊</h3>
-
+<a href="https://www.linkedin.com/in/matías-raul-ibarra/" target="_blank">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
 ---
-⭐️ De [Matías ](https://github.com/MatiasRaulIbarra) 
 
+### About Me
 
+I am a **Backend Software Engineer** with 2.5 years of professional experience, specializing in designing and developing mission-critical APIs and services within the .NET ecosystem. [cite_start]My background includes building robust solutions for government entities, the energy sector, and international real estate management systems.
 
+I am currently undertaking a strategic, full-time professional development plan (Aug 2025 - Jan 2026) to deepen my expertise in modern cloud-native technologies and achieve professional fluency in English, preparing myself for new international remote opportunities.
 
+---
+
+### 💻 Core Tech Stack & Experience
+
+My hands-on experience is centered around these technologies:
+
+<p align="left">
+  <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="55" height="55" />
+  <img src="https://techstack-generator.vercel.app/dotnet-icon.svg" alt="icon" width="55" height="55" />
+  <img src="https://techstack-generator.vercel.app/sql-server-icon.svg" alt="icon" width="55" height="55" />
+  <img src="https://techstack-generator.vercel.app/angular-icon.svg" alt="icon" width="55" height="55" />
+  <img src="https://techstack-generator.vercel.app/git-icon.svg" alt="icon" width="55" height="55" />
+</p>
+
+* [cite_start]**Backend:** C#, ASP.NET Core, Entity Framework Core, ADO.NET [cite: 16, 17, 18, 19, 40]
+* [cite_start]**Databases:** SQL Server, MySQL, PL/SQL [cite: 43, 45, 38]
+* [cite_start]**Frontend:** Angular & JavaScript basics [cite: 27, 71]
+* [cite_start]**Methodologies:** Agile & Scrum [cite: 4, 75]
+
+---
+
+### 🌱 My Current Learning Journey
+
+I am currently focused on mastering the following technologies through a hands-on, project-based study plan. You can follow my daily progress here:
+* ➡️ **[CSharp-Fundamentals-2025](https://github.com/MatiasRaulIbarra/CSharp-Fundamentals-2025)**
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Clean%20Architecture-FFFFFF?style=for-the-badge&logo=sonarcloud&logoColor=black" />
+</p>
+
+---
+
+<div align="center">
+
+![MatiasRaulIbarra's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatiasRaulIbarra&show_icons=true&theme=tokyonight&hide_border=true&title_color=3793c4&icon_color=ffbb00&text_color=ffffff)
+
+</div>
