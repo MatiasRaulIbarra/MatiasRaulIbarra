@@ -38,6 +38,7 @@ My hands-on experience is centered around these technologies:
 I am currently focused on mastering the following technologies through a hands-on, project-based study plan. You can follow my daily progress in my new repository:
 
 * ➡️ **[CSharp-Fundamentals-2025](https://github.com/MatiasRaulIbarra/CSharp-Fundamentals-2025)**
+* 📋 **Trello Board:** [View My Full Project Plan Here](https://trello.com/b/emiipTGM/plan-to-relaunching-2025-2026) (Weekly tasks and progress)
 
 <p align="left">
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" />
