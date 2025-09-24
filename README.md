@@ -38,6 +38,9 @@ My hands-on experience is centered around these technologies:
 I am currently focused on mastering the following technologies through a hands-on, project-based study plan. You can follow my daily progress in my new repository:
 
 * ➡️ **[CSharp-Fundamentals-2025](https://github.com/MatiasRaulIbarra/CSharp-Fundamentals-2025)**
+* 📦 **[Project 2025: Console Inventory Manager C#](https://github.com/MatiasRaulIbarra/csharp-console-inventory-manager)** . A console application that demonstrates in-memory data management, robust input validation, and the "separation of concerns" pattern using a service interface.
+
+
 * 📋 **Trello Board:** [View My Full Project Plan Here](https://trello.com/b/emiipTGM/plan-to-relaunching-2025-2026) (Weekly tasks and progress)
 
 <p align="left">
