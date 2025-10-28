@@ -49,6 +49,7 @@ I am currently focused on mastering the following technologies through a hands-o
   <img src="https://img.shields.io/badge/Clean%20Architecture-FFFFFF?style=for-the-badge&logo=sonarcloud&logoColor=black" alt="Clean Architecture" />
 </p>
 
+
 ---
 
 <div align="center">
