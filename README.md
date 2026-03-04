@@ -42,7 +42,7 @@ I am currently focused on mastering the following technologies through a hands-o
 
 
 
-* 📋 **Trello Board:** [View My Full Project Plan Here](https://trello.com/b/emiipTGM/plan-to-relaunching-2025-2026) (Weekly tasks and progress)
+* 📋 **Trello Board:** [View My Full Project Plan Here](https://trello.com/b/emiipTGM/plan-to-relaunching-2025-2026-) (Weekly tasks and progress)
 
 <p align="left">
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" />
